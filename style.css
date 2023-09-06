@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+
+button:hover{
+color: red;
+background-color: black;
+text-align: center;
+}
